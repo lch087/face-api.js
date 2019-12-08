@@ -1,0 +1,4 @@
+git clone https://github.com/justadudewhohacks/face-api.js.git
+cd face-api.js/examples/examples-browser
+npm i
+npm start
